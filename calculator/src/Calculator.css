@@ -1,0 +1,31 @@
+.calcu{
+    width: 350px;
+    height: 500px;
+    background: black;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: rgb(37, 32, 32);
+    margin: 0 auto;
+    
+   
+}
+#screen{
+    width:80%;
+    height: 40px;
+   font-size: 20px;
+   margin-top: 20px;
+   pointer-events: none;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    /* background: black;
+    color: white; */
+    margin-left: 25px;
+    margin-top: 30px;
+
+}
+
+.buttons{
+    margin-right: 25px;
+}
